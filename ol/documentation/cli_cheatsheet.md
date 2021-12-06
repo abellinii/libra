@@ -73,7 +73,7 @@ The autopay types are `PercentOfBalance, PercentOfChange, FixedRecurring, FixedO
 
 ### Cancel Previous Autopay tx's
 
-Disabling autopay will cancel all of the accounts previous autopay transactions. Once disabling and reenabling, the account will have no autopay instuctions set.
+Disabling autopay will cancel all of the accounts previous autopay instructions. Once disabling and reenabling, the account will have no autopay instuctions set.
 
 ```
 txs autopay --disable
